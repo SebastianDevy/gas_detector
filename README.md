@@ -15,3 +15,4 @@ This repository contains my past project: a gas detection system built with an E
 ## Status
  Archived as part of my portfolio, this project was done in 2025.
  Represents my early work in electronics and IoT.
+ Note that the program will not work for the blynk account was terminated after prolonged inactivity.
